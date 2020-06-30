@@ -1,27 +1,15 @@
-# Version Control with Git
+### Date created
+06/29/2020
 
-This is the repo for [Udacity's Version Control with Git course](). In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
+### Fun Game    
 
-This repo contains the source code of a blog project that will be used throughout the course.
 
-## Table of Contents
+### Description
+This is fun game of Rock/Paper/Scissor where user choice is compared with randomly selected option by the computer.
+Combination of Rock and Paper , Paper and Scissor,Rock and Scissor lose. All other combinations win. Win is cheered with applaud sound! 
 
-* [Instructions](#instructions)
-* [Creator](#creators)
+### Files used
+KidsCheering.wav
 
-## Instructions
-
-* clone the project
-* open the index file in a browser
-
-## Creators
-
-* Richard Kalehoff
-    - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
-    - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
-
-With the help of:
-
-* Colt
-* James
-* Julia
+### Credits
+http://soundbible.com/
